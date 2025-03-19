@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Amino
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Miguel
+    family-names: Arribas Tiemblo
+    email: marribas@cab.inta-csic.es
+    affiliation: 'Centro de Astrobiología (CAB, CSIC-INTA)'
+    orcid: 'https://orcid.org/0000-0002-3480-3608'
+abstract: >-
+  This is a dataset of Raman spectroscopic and HPLC data
+  used to study the preservation of a set of amino acids
+  within four Martian regolith analogues.
+keywords:
+  - Amino acid
+  - Mars
+  - Regolith
+  - Biomarker
+license: MIT
+commit: '1'
+version: v1.0.0
+date-released: '2025-03-19'
