@@ -7,4 +7,4 @@ The HPLC branch holds scripts needed for the analysis and generation of plots en
 The Raman branch contains scripts needed for the analysis and plotting of Raman spectroscopic data.
 The Regolith characterization branch has a couple scripts related to the characterization of the mineral surfaces.
 
-All branched contain sub-branched with the raw data used in analysis and plotting.
+All branches contain sub-branches with the raw data used in analysis and plotting.
